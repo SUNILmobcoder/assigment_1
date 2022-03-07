@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358200197247",
+    "project_id": "gigger-716ba",
+    "storage_bucket": "gigger-716ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358200197247:android:889df150f5a226ed07ff4a",
+        "android_client_info": {
+          "package_name": "com.gigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358200197247-dh3qcd35k3i7rrfd89d1fpltmj1u3173.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpiMTDw28QbCLF1Jo2KCMrpd9OcyfvTSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358200197247-dh3qcd35k3i7rrfd89d1fpltmj1u3173.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
